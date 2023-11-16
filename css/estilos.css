@@ -4,6 +4,8 @@
   --vermelha-escura: #af303f;
   --branca: #fff;
   --luz: #ff5c77
+
+
 }
 
 body {
@@ -20,6 +22,13 @@ h1 {
   color: var(--branca);
   margin-bottom: 20px;
   font-size: 2rem;
+}
+
+
+img {
+  width: 4em;
+  weight: 8em;
+  border-radius: 20px;
 }
 
 h2 {
